@@ -22,7 +22,7 @@ Este script en Python permite realizar la **suma de dos números** ingresados po
 2. Ejecuta el script desde la terminal o consola:
 
 ```bash
-python suma.py
+python operaciones_aritmeticas.py
 ```
 
 ## Licencia
