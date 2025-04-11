@@ -1,16 +1,30 @@
-# Aplicación Operación Suma
-## Descripción
-El script implementa la suma de dos números y realiza la validación de los operandos
-## Funcionalidad
-- **Suma** por operandos
-- **Verifica** que los operandos sean números (int o float)
+# 🐍 Suma de Dos Números en Python
 
-[Repositorio GitHub](https://github.com/YoshuaPariona/cs-sem04-suma.git)
+Este script en Python permite realizar la **suma de dos números** ingresados por el usuario, asegurándose de que los operandos sean de tipo **entero (`int`)** o **decimal (`float`)**. Si se ingresan valores no válidos, el programa muestra un mensaje de error apropiado.
 
-![Alt logo-Python](https://logospng.org/download/python/logo-python-256.png)
+![Python Logo](https://www.python.org/static/community_logos/python-logo.png)
 
-### Equipo de desarrollo
-| Apellidos | Nombres | Rol | 
-| --- | --- | --- |
-| Pariona Inga | Logan Yoshua Leonardo | Desarrollador |
-| Landa Sabuco | Gabriel David | Diseñador UX/UI |
+## ✨ Funcionalidades
+
+- ✅ Solicita dos números al usuario.
+- ✅ Valida que las entradas sean `int` o `float`.
+- ✅ Realiza la suma de los dos números ingresados.
+- ✅ Muestra el resultado de manera clara.
+- ✅ Gestiona errores de entrada con mensajes comprensibles.
+
+## 🛠️ Requisitos
+
+- Python 3.6 o superior
+
+## ▶️ Uso
+
+1. Clona o descarga este repositorio.
+2. Ejecuta el script desde la terminal o consola:
+
+```bash
+python suma.py
+```
+
+## Licencia
+
+Este proyecto está licenciado bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](LICENSE).
